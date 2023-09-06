@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning ** Bachelor of Business Administration (B.B.A.)
 
 - 📫 How to reach me **chaitanyagop@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/chaitanyagop**
+- 👨‍💻 All of my projects are available at:- https://github.com/chaitanyagop/My_portfolio_project
 - 📄 Know about my experiences **www**
 
 <div> <a href="https://www.linkedin.com/in/chaitanyagope" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
